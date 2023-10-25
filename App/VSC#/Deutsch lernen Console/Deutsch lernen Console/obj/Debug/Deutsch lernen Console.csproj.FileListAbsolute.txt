@@ -1,0 +1,13 @@
+D:\CProgrami\VSC#\Deutsch lernen Console\Deutsch lernen Console\bin\Debug\Deutsch lernen Console.exe.config
+D:\CProgrami\VSC#\Deutsch lernen Console\Deutsch lernen Console\obj\Debug\Deutsch lernen Console.csprojResolveAssemblyReference.cache
+D:\CProgrami\VSC#\Deutsch lernen Console\Deutsch lernen Console\bin\Debug\Deutsch lernen Console.exe
+D:\CProgrami\VSC#\Deutsch lernen Console\Deutsch lernen Console\bin\Debug\Deutsch lernen Console.pdb
+D:\CProgrami\VSC#\Deutsch lernen Console\Deutsch lernen Console\obj\Debug\Deutsch lernen Console.exe
+D:\CProgrami\VSC#\Deutsch lernen Console\Deutsch lernen Console\obj\Debug\Deutsch lernen Console.pdb
+\\Desktop\sharing Folder\App\VSC#\Deutsch lernen Console\Deutsch lernen Console\bin\Debug\Deutsch lernen Console.exe.config
+\\Desktop\sharing Folder\App\VSC#\Deutsch lernen Console\Deutsch lernen Console\bin\Debug\Deutsch lernen Console.exe
+\\Desktop\sharing Folder\App\VSC#\Deutsch lernen Console\Deutsch lernen Console\bin\Debug\Deutsch lernen Console.pdb
+\\Desktop\sharing Folder\App\VSC#\Deutsch lernen Console\Deutsch lernen Console\obj\Debug\Deutsch lernen Console.csproj.AssemblyReference.cache
+\\Desktop\sharing Folder\App\VSC#\Deutsch lernen Console\Deutsch lernen Console\obj\Debug\Deutsch lernen Console.csproj.CoreCompileInputs.cache
+\\Desktop\sharing Folder\App\VSC#\Deutsch lernen Console\Deutsch lernen Console\obj\Debug\Deutsch lernen Console.exe
+\\Desktop\sharing Folder\App\VSC#\Deutsch lernen Console\Deutsch lernen Console\obj\Debug\Deutsch lernen Console.pdb

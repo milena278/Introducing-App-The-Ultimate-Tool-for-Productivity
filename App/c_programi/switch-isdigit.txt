@@ -1,0 +1,33 @@
+
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include <string.h>
+
+char main()
+{
+  char ocjena;
+
+    printf("Unesi ocjenu; ");
+    scanf(" %c",&ocjena);
+
+    switch(ocjena){
+
+    case '1': printf("Nedovoljan");
+    break;
+    case '2': printf("Dovoljan");
+    break;
+    case '3': printf("Dobar");
+    break;
+    case '4': printf("Vrlodobar");
+    break;
+    case '5': printf("Odlican");
+    break;
+
+    default:
+        (!isdigit(ocjena))? printf("Upisano je slovo"): printf("Potrebno je upisati ocjene u rangu od 1 - 5");
+    }
+
+    return 0;
+}

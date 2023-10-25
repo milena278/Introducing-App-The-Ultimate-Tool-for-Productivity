@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1530274774 source:d:\cprogrami\c_programi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"abeceda.h"
+	"brojevi.h"
+	"godisnje_doba.h"
+	"mjeseci.h"
+	"daniUTjednu.h"
+	"osobneZamjenice.h"
+	"glagoli.h"
+	"odredeniClanovi.h"
+	"boje.h"
+	"odjeca.h"
+	"obitelj.h"
+	<windows.h>
+
+1493111928 source:d:\cprogrami\c_programi\untitled1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1494325487 d:\cprogrami\c_programi\struktura.h
+
+1496401510 source:d:\cprogrami\c_programi\odgovori_dani_u_tjednu.c
+
+1507208422 d:\cprogrami\c_programi\brojevi.h
+
+1507208421 d:\cprogrami\c_programi\godisnje_doba.h
+
+1507208413 d:\cprogrami\c_programi\mjeseci.h
+
+1510158005 d:\cprogrami\c_programi\abeceda.h
+
+1507208420 d:\cprogrami\c_programi\daniutjednu.h
+
+1507208419 d:\cprogrami\c_programi\osobnezamjenice.h
+
+1507208418 d:\cprogrami\c_programi\glagoli.h
+
+1507208417 d:\cprogrami\c_programi\odredeniclanovi.h
+
+1507205618 d:\cprogrami\c_programi\boje.h
+
+1507205682 d:\cprogrami\c_programi\odjeca.h
+
+1507205746 d:\cprogrami\c_programi\obitelj.h
+

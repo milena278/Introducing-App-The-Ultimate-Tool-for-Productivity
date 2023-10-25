@@ -1,0 +1,32 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()										// skračeni if-else 
+{												// (test)? Thrue: false;
+	int godine;
+	char spol;											int main()
+														{
+	printf("Koliko imas godina? ");							int godine;		
+	scanf(" %d", &godine);									char spol:
+							
+	if(godine>=18){											printf("Koliko imas godina? ");					
+		printf("Kojeg si spola? (m/f) ");					scanf(" %d", &godine);
+		scanf(" %c", &spol);								(godine>18)? printf("Punoljetna si osoba"): printf("Nisi punoljetna osoba");
+															
+		if(spol=='m'){
+		printf("Prijava za muskarce: ");
+		}else if(spol=='z'){									
+			printf("Prijava za zene: ");					 int prijatelj;
+		}else{											     printf("Koliko imas prijatelja? ");
+															 scanf(" %d", &prijatelj);
+			printf("Nepostojeci unos");						 printf("Ja ima %d friend%s ", prijatelj, (prijatelj<=1)? "":"s");
+		}
+	}
+	if(godine<18){
+		printf("Prijava je samo za punoljetne osobe!\n");
+	}
+	system("cls");
+
+return 0;
+
+}
